@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PostNord Utdelningskalender//postnord.se//
+X-WR-CALNAME:Postutdelning 56632
+X-WR-TIMEZONE:Europe/Stockholm
+BEGIN:VEVENT
+SUMMARY:Postutdelning
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+DTSTAMP:20250819T163835Z
+UID:postnord-56632-2025-08-20@example.local
+URL:https://www.postnord.se/vara-verktyg/sok-utdelningsdag/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Postutdelning
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+DTSTAMP:20250819T163835Z
+UID:postnord-56632-2025-08-22@example.local
+URL:https://www.postnord.se/vara-verktyg/sok-utdelningsdag/
+END:VEVENT
+END:VCALENDAR
